@@ -1,6 +1,6 @@
 Costruisco cose e le regalo. Queste sono quelle pubbliche:
 
-- **[Gira le Parole](https://barbattack.github.io/gira-le-parole/)** — il gioco della ruota da fare in famiglia: tutti davanti allo stesso schermo, si gira e si indovina la parola lettera per lettera.
+- **[Gira le Parole](https://giraleparole.github.io/)** — il gioco della ruota da fare in famiglia: tutti davanti allo stesso schermo, si gira e si indovina la parola lettera per lettera.
 - **[spesa](https://barbattack.github.io/spesa/)** — segni il prezzo dallo scontrino e l'app fa il conto al chilo o al litro, così vedi in quale supermercato conviene davvero.
 - **[LeagueForge](https://github.com/Barbattack/LeagueForge)** — classifiche e statistiche per le leghe di giochi di carte collezionabili dei negozi: One Piece, Pokémon, Riftbound. Nella classifica di stagione i due tornei peggiori si scartano.
 - **[L'Officina delle Domande](https://officinadelledomande.github.io/)** — piccoli laboratori per bambini curiosi: come funziona davvero un computer, e come si distingue quello che sappiamo da quello che si racconta.
